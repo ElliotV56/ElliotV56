@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elliot</h1>
 <h3 align="center">⚡ Full-Stack Developer | Game Dev | Cybersecurity Enthusiast ⚡</h3>
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Elliot&label=Profile%20views&color=0e75b6&style=flat" alt="Elliot" /> 
