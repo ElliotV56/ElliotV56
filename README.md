@@ -15,14 +15,15 @@
 ## 💫 About Me:
 🎮 Game Developer | 🔐 Cybersecurity Researcher | 💻 Full-Stack Wizard<br>
 🔭 Currently working on **[Elliot-TOOL](https://github.com/yourusername/Elliot-TOOL)** (Advanced Dev Toolkit)<br>
+
+<div align="center">
+  <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJoZnl0bncwZDl6MnkyOWhwc3NuNzF6NDdkNTM2bHpybjZ4Y3BndiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif">
+</div>
 🌱 Learning **Reverse Engineering | Exploit Dev | Unreal Engine 5**<br>
 ⚡ Fun fact: I can code while solving a Rubik's cube blindfolded 🎲<br>
 💬 Ask me about **Game Dev, Ethical Hacking, or C#/Python Automation**<br>
 📫 How to reach me: **[Your Email or Contact Method]**
 
-<div align="center">
-  <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJoZnl0bncwZDl6MnkyOWhwc3NuNzF6NDdkNTM2bHpybjZ4Y3BndiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif">
-</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shabgded) 
