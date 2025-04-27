@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Elliot</h1>
 <h3 align="center">⚡ Full-Stack Developer | Game Dev | Cybersecurity Enthusiast ⚡</h3>
 
+
 <div align="center">
   <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJoZnl0bncwZDl6MnkyOWhwc3NuNzF6NDdkNTM2bHpybjZ4Y3BndiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif">
 </div>
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Elliot&label=Profile%20views&color=0e75b6&style=flat" alt="Elliot" /> 
   <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FElliot" alt="Total Stars">
@@ -15,10 +15,6 @@
 ## 💫 About Me:
 🎮 Game Developer | 🔐 Cybersecurity Researcher | 💻 Full-Stack Wizard<br>
 🔭 Currently working on **[Elliot-TOOL](https://github.com/yourusername/Elliot-TOOL)** (Advanced Dev Toolkit)<br>
-
-<div align="center">
-  <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJoZnl0bncwZDl6MnkyOWhwc3NuNzF6NDdkNTM2bHpybjZ4Y3BndiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif">
-</div>
 🌱 Learning **Reverse Engineering | Exploit Dev | Unreal Engine 5**<br>
 ⚡ Fun fact: I can code while solving a Rubik's cube blindfolded 🎲<br>
 💬 Ask me about **Game Dev, Ethical Hacking, or C#/Python Automation**<br>
