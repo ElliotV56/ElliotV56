@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **FUCKING NOOB HACKER**
-
 - ⚡ Fun fact **iam game devloper🥲**
 
 <h3 align="left">Connect with me:</h3>
