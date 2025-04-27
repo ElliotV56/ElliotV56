@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elliot</h1>
 <h3 align="center">⚡ Full-Stack Developer | Game Dev | Cybersecurity Enthusiast ⚡</h3>
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif">
+
+<div align="center">
+  <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif">
+</div>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Elliot&label=Profile%20views&color=0e75b6&style=flat" alt="Elliot" /> 
@@ -9,12 +12,13 @@
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=TryHackMe&logoColor=white" alt="TryHackMe">
 </p>
 
-# 💫 About Me:
+## 💫 About Me:
 🎮 Game Developer | 🔐 Cybersecurity Researcher | 💻 Full-Stack Wizard<br>
-🔭 Currently working on **Elliot-TOOL** (Advanced Dev Toolkit)<br>
+🔭 Currently working on **[Elliot-TOOL](https://github.com/yourusername/Elliot-TOOL)** (Advanced Dev Toolkit)<br>
 🌱 Learning **Reverse Engineering | Exploit Dev | Unreal Engine 5**<br>
 ⚡ Fun fact: I can code while solving a Rubik's cube blindfolded 🎲<br>
-💬 Ask me about **Game Dev, Ethical Hacking, or C#/Python Automation**
+💬 Ask me about **Game Dev, Ethical Hacking, or C#/Python Automation**<br>
+📫 How to reach me: **[Your Email or Contact Method]**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shabgded) 
