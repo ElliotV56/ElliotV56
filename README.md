@@ -24,8 +24,6 @@
 
 # 💻 Tech Stack:
 ### 🎮 Game Development
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
@@ -74,10 +72,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elliot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-### 🔥 Latest Projects
-[![Elliot-TOOL](https://github-readme-stats.vercel.app/api/pin/?username=Elliot&repo=Elliot-TOOL&theme=dark)](https://github.com/Elliot/Elliot-TOOL)
-[![Game-Dev-Projects](https://github-readme-stats.vercel.app/api/pin/?username=Elliot&repo=Game-Dev-Projects&theme=dark)](https://github.com/Elliot/Game-Dev-Projects)
-
-[![](https://visitcount.itsvg.in/api?id=Elliot&icon=9&color=10)](https://visitcount.itsvg.in)
-
 > *"The quieter you become, the more you can hear."* – **Unknown Hacker**
