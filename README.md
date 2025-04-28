@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=Hack%20The%20Box&logoColor=black" alt="HackTheBox">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=TryHackMe&logoColor=white" alt="TryHackMe">
 </p>
+**Elliot** <img src="https://img.shields.io/badge/-Verified-brightgreen?logo=check-circle-fill&logoColor=white" alt="Verified">
 
 ## 💫 About Me:
 🎮 Game Developer | 🔐 Cybersecurity Researcher | 💻 Full-Stack Wizard<br>
