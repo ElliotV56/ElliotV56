@@ -7,8 +7,10 @@
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=Hack%20The%20Box&logoColor=black" alt="HackTheBox">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=TryHackMe&logoColor=white" alt="TryHackMe">
 </p>
-**Elliot** <img src="https://img.shields.io/badge/-Verified-brightgreen?logo=check-circle-fill&logoColor=white" alt="Verified">
-
+<div style="display: inline-block; background: linear-gradient(135deg, #f5f5f5, #e0e0e0); padding: 8px 15px; border-radius: 30px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <span style="font-size: 18px; font-weight: bold; color: #333;">Elliot</span>
+  <span style="color: #28a745; font-size: 18px; margin-left: 8px; text-shadow: 0 0 3px rgba(40, 167, 69, 0.3);">✓</span>
+</div>
 ## 💫 About Me:
 🎮 Game Developer | 🔐 Cybersecurity Researcher | 💻 Full-Stack Wizard<br>
 🔭 Currently working on **[Elliot-TOOL](https://github.com/yourusername/Elliot-TOOL)** (Advanced Dev Toolkit)<br>
