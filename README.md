@@ -11,7 +11,7 @@
 ## 💫 About Me:
 🎮 Game Developer | 🔐 Cybersecurity Researcher | 💻 Full-Stack Wizard<br>
 🔭 Currently working on **[Elliot-TOOL](https://github.com/yourusername/Elliot-TOOL)** (Advanced Dev Toolkit)<br>
-🌱 Learning **Reverse Engineering | Exploit Dev | Unreal Engine 5**<br>
+🌱 Learning **Reverse Engineering | Exploit Dev | godot**<br>
 ⚡ Fun fact: I can code while solving a Rubik's cube blindfolded 🎲<br>
 💬 Ask me about **Game Dev, Ethical Hacking, or C#/Python Automation**<br>
 📫 How to reach me: **[Your Email or Contact Method]**
