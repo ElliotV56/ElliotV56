@@ -14,7 +14,6 @@
 🌱 Learning **Reverse Engineering | Exploit Dev | godot**<br>
 ⚡ Fun fact: I can code while solving a Rubik's cube blindfolded 🎲<br>
 💬 Ask me about **Game Dev, Ethical Hacking, or C#/Python Automation**<br>
-📫 How to reach me: **[Your Email or Contact Method]**
 
 
 ## 🌐 Socials:
