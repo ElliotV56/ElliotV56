@@ -136,21 +136,34 @@
 
 ---
 
-## 💡 Random Dev Quote
+## 🎖️ Achievements & Certifications
 
 <div align="center">
   
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+🏆 **Active CTF Player** • 🥇 **Top 10% HackTheBox** • 🔥 **100+ GitHub Contributions**  
+⭐ **Open Source Contributor** • 🎯 **Bug Bounty Hunter** • 🚀 **Tech Community Leader**
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Coding Activity
 
 <div align="center">
   
-![Snake animation](https://github.com/Elliot/Elliot/blob/output/github-contribution-grid-snake.svg)
+<!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 📦 120.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 156 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 15 Private Repositories 
+<!--END_SECTION:waka-->
 
 </div>
 
