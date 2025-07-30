@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | 🎮 Game Creator | 🔐 Cybersecurity Expert</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpv/?username=Elliot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=R3d.R3d)
   <img src="https://img.shields.io/github/followers/Elliot?style=flat&color=blue" alt="Followers">
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=Hack%20The%20Box&logoColor=black" alt="HackTheBox">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=TryHackMe&logoColor=white" alt="TryHackMe">
