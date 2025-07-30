@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Full-Stack Developer | 🎮 Game Creator | 🔐 Cybersecurity Expert</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elliot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FElliot&color=yellow" alt="Total Stars">
+  <img src="https://komarev.com/ghpv/?username=Elliot&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://img.shields.io/github/followers/Elliot?style=flat&color=blue" alt="Followers">
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=Hack%20The%20Box&logoColor=black" alt="HackTheBox">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=TryHackMe&logoColor=white" alt="TryHackMe">
 </div>
@@ -34,8 +34,8 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/shabgded)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohhev.10)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fr3onty)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_ID)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
 
 </div>
 
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/TOR-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white" alt="TOR"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=OWASP&logoColor=white" alt="OWASP"/>
 </div>
 
 ### 💻 Programming Languages
@@ -83,21 +83,22 @@
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
 </div>
 
-### 🗄️ Databases & Backend
+### 🗄️ Databases & Cloud
 <div align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </div>
 
 ### 🛠️ DevOps & Tools
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 
 ---
@@ -127,12 +128,18 @@
 
 ---
 
-## 🎯 Current Projects
+## 🎯 Featured Projects
 
-🚀 **[Project Cipher]** - Advanced encryption tool with GUI  
-🎮 **[PixelForge]** - 2D game engine built in Godot  
-🔐 **[SecureVault]** - Password manager with biometric auth  
-🤖 **[AutoRecon]** - Automated penetration testing framework  
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🎮 **Game Engine** | Custom 2D/3D engine built from scratch | C++, OpenGL, Vulkan | ⚡ Active |
+| 🔐 **Security Suite** | Comprehensive penetration testing tools | Python, Bash, Go | 🚀 Beta |
+| 🌐 **Web Platform** | Full-stack social gaming platform | React, Node.js, MongoDB | 📈 Growing |
+| 🤖 **AI Assistant** | Machine learning chatbot with NLP | Python, TensorFlow, FastAPI | 🧠 Learning |
+
+</div>
 
 ---
 
@@ -140,32 +147,36 @@
 
 <div align="center">
   
-🏆 **Active CTF Player** • 🥇 **Top 10% HackTheBox** • 🔥 **100+ GitHub Contributions**  
-⭐ **Open Source Contributor** • 🎯 **Bug Bounty Hunter** • 🚀 **Tech Community Leader**
+🏆 **Active CTF Player** • 🥇 **Cybersecurity Enthusiast** • 🔥 **Open Source Contributor**  
+⭐ **Community Builder** • 🎯 **Problem Solver** • 🚀 **Innovation Driven**
 
 </div>
 
 ---
 
-## 📈 Coding Activity
+## 📈 Weekly Development Breakdown
 
 <div align="center">
-  
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
 
-> 📦 120.5 kB Used in GitHub's Storage 
- > 
-> 🏆 156 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 15 Private Repositories 
-<!--END_SECTION:waka-->
+```text
+🎮 Game Development    ████████████░   75%
+🔐 Cybersecurity      ████████░░░░░   60%
+🌐 Web Development    ██████████░░░   70%
+📚 Learning New Tech  ████████████░   85%
+🤝 Community Help     ████████░░░░░   55%
+```
 
 </div>
+
+---
+
+## 🌍 Recent Activity
+
+- 🔥 **This Week**: Implemented advanced pathfinding algorithm in Godot
+- 🛡️ **Security**: Discovered 3 vulnerabilities in local CTF challenge
+- 🎯 **Open Source**: Contributed to 5 different repositories
+- 📚 **Learning**: Deep diving into WebAssembly and Rust integration
+- 🤝 **Community**: Helped 15+ developers solve coding challenges
 
 ---
 
@@ -175,6 +186,6 @@
 
 **Thanks for visiting! 😊 Let's build something amazing together! 🚀**
 
-<img src="https://komarev.com/ghpvc/?username=Elliot&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<img src="https://komarev.com/ghpv/?username=Elliot&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
 </div>
